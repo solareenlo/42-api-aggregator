@@ -9,7 +9,11 @@ See [wiki](https://github.com/solareenlo/42api-aggregator/wiki)
 - Install grunt $> `npm install -g grunt-cli`
 
 ### (project & node_modules)
-$> `git clone https://github.com/yfuks/42-API-AGGREGATOR.git && cd 42-API-AGGREGATOR && npm i`
+```sh
+git clone git@github.com:solareenlo/42api-aggregator.git
+cd 42api-aggregator
+npm install
+```
 
 Create a new app on [42 Intranet](https://profile.intra.42.fr/oauth/applications)
 
