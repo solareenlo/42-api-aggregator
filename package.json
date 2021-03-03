@@ -1,21 +1,21 @@
 {
-  "name": "42-api-aggregator",
+  "name": "42api-aggregator",
   "version": "0.0.1",
   "private": false,
-  "description": "A 42's api scrapper used as database manager for 42-charts",
+  "description": "A 42's api scrapper used as database manager for 42api-client",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "scripts": "grunt"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/42Charts/42-api-aggregator.git"
+    "url": "git+https://github.com/solareenlo/42api-aggregator.git"
   },
-  "author": "yfuks",
+  "author": "solareenlo",
   "bugs": {
-    "url": "https://github.com/42Charts/42-api-aggregator/issues"
+    "url": "https://github.com/solareenlo/42api-aggregator/issues"
   },
-  "homepage": "https://github.com/42Charts/42-api-aggregator/#readme",
+  "homepage": "https://github.com/solareenlo/42api-aggregator/#readme",
   "dependencies": {
     "async": "^2.6.1",
     "bottleneck": "^2.11.2",
