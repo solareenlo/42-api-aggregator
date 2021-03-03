@@ -1,10 +1,9 @@
 # 42api-aggregator
 42 API AGGREGATOR scrape 42 api school into a mysql DB with only *usefull* informations using [nodejs](https://nodejs.org/en/docs/) & [gruntjs](https://gruntjs.com/)
 
-See [tables](https://github.com/solareenlo/42api-aggregator/wiki/Table-of-contents)
+See [wiki](https://github.com/solareenlo/42api-aggregator/wiki)
 
 ## Getting started
-
 ### (node & grunt)
 - Install [nodejs](https://nodejs.org/) and make sure `npm` is in your **PATH**
 - Install grunt $> `npm install -g grunt-cli`
