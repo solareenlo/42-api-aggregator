@@ -4,6 +4,9 @@
 See [wiki](https://github.com/solareenlo/42api-aggregator/wiki)
 
 ## Getting started
+### (mysql)
+- start [mysql-nextjs-test](https://github.com/solareenlo/mysql-nextjs-test)
+
 ### (node & grunt)
 - Install [nodejs](https://nodejs.org/) and make sure `npm` is in your **PATH**
 - Install grunt $> `npm install -g grunt-cli`
