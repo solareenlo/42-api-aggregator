@@ -1,5 +1,5 @@
-# 42api-aggregator
-42 API AGGREGATOR scrape 42 api school into a mysql DB with only *usefull* informations using [nodejs](https://nodejs.org/en/docs/) & [gruntjs](https://gruntjs.com/)
+# 42api-aggregator2
+42api-aggregator2 scrape 42 api school into a mysql DB with only *usefull* informations using [nodejs](https://nodejs.org/en/docs/) & [gruntjs](https://gruntjs.com/)
 
 See [wiki](https://github.com/solareenlo/42api-aggregator/wiki)
 
