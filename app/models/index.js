@@ -42,7 +42,7 @@ const models = [
   usersTokens, // would be done in api
   usersAchievements,
   locations, // done
-  usersCoalitions,
+  // usersCoalitions,
   apps,
   messages,
   quests,
